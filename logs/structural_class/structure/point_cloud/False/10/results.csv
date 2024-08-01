@@ -1,0 +1,5 @@
+name,value
+test_precision,0.049190065807659104
+test_recall,0.03259668732177158
+test_accuracy,0.21073558648111332
+best_val_score,-inf

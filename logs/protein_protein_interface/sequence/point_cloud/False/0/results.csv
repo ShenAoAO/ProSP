@@ -1,0 +1,8 @@
+name,value
+test_auroc_weighted,0.0011997908080729385
+test_auprc_weighted,5.893305594988792e-06
+test_auroc_median,0.7562483434824288
+test_auprc_median,0.0006535387686978887
+test_auroc_mean,0.7251726329872111
+test_auprc_mean,0.004708906402909106
+best_val_score,-inf

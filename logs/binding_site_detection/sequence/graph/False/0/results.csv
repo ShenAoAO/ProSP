@@ -1,0 +1,6 @@
+name,value
+test_accuracy,0.8405548847266294
+test_mcc,0.4043910288020179
+test_auc,0.7694023098973743
+test_aupr,0.5131746779855948
+best_val_score,-inf

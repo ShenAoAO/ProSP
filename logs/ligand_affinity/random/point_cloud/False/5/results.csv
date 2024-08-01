@@ -1,0 +1,7 @@
+name,value
+test_mse,6.745304584503174
+test_r2,0.48638511961197417
+test_neg_mse,-6.745304584503174
+test_mae,1.9951450824737549
+test_spearmanr,0.6981673330790097
+best_val_score,-inf
