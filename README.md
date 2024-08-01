@@ -33,7 +33,7 @@ pip install -e .
 
 # 🤖  Model weights
 
-The weights for pre-trained models are available [in the repository](https://github.com/ShenAoAO/ProSP/pretrained/).
+The weights for pre-trained models are available [in the repository](https://github.com/ShenAoAO/ProSP/tree/main/pretrained).
 
 # 🚀  Training
 
